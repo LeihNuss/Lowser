@@ -1,0 +1,6 @@
+{
+  "name": "Web Browser",
+  "description": "A modern, lightweight web browser with a seamless link queue dock for sequential reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
